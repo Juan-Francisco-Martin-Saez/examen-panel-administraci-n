@@ -1,0 +1,42 @@
+[
+  {
+    "nombre": "Inicio",
+    "href": "#"
+  },
+  {
+    "nombre": "Usuarios",
+    "href": "#"
+  },
+  {
+    "nombre": "Productos",
+    "href": "#"
+  },
+  {
+    "nombre": "Servicios",
+    "href": "#"
+  },
+  {
+    "nombre": "Proyectos",
+    "href": "#"
+  },
+  {
+    "nombre": "Noticias",
+    "href": "#"
+  },
+  {
+    "nombre": "Galería",
+    "href": "#"
+  },
+  {
+    "nombre": "Sobre nosotros",
+    "href": "#"
+  },
+  {
+    "nombre": "Contacto",
+    "href": "#"
+  },
+  {
+    "nombre": "Configuración",
+    "href": "#"
+  }
+]

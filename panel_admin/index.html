@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Panel de control</title>
+  <link rel="stylesheet" href="./src/styles-baseweb.css">
+  <script type="module" src="./src/index.js"></script>
+</head>
+
+<body>
+  <app-header>
+    <app-logo></app-logo>
+    <app-menu src="./src/menu.json"></app-menu>
+  </app-header>
+  <app-main>
+    <data-table src="./src/datos.json"></data-table>
+    <form-panel>
+      <data-varios slot="varios" src="./src/varios.json"></data-varios>
+    </form-panel>
+  </app-main>
+</body>
+
+</html>

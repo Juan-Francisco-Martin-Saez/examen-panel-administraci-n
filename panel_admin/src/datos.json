@@ -1,0 +1,182 @@
+[
+  {
+    "Teléfono": "610748843",
+    "Dirección": "C/ Pascual Ribot, 1",
+    "Email": "juan.martinez@example.com",
+    "Código Postal": "07013"
+  },
+  {
+    "Teléfono": "621583914",
+    "Dirección": "C/ Aragón, 24",
+    "Email": "laura.garcia@example.com",
+    "Código Postal": "07008"
+  },
+  {
+    "Teléfono": "634217856",
+    "Dirección": "C/ Joan Alcover, 37",
+    "Email": "pedro.lopez@example.com",
+    "Código Postal": "07006"
+  },
+  {
+    "Teléfono": "647902315",
+    "Dirección": "C/ Blanquerna, 12",
+    "Email": "ana.sanchez@example.com",
+    "Código Postal": "07003"
+  },
+  {
+    "Teléfono": "658341729",
+    "Dirección": "C/ Manacor, 86",
+    "Email": "carlos.martin@example.com",
+    "Código Postal": "07007"
+  },
+  {
+    "Teléfono": "671825403",
+    "Dirección": "C/ General Riera, 45",
+    "Email": "marta.rodriguez@example.com",
+    "Código Postal": "07010"
+  },
+  {
+    "Teléfono": "682439157",
+    "Dirección": "C/ Foners, 19",
+    "Email": "david.fernandez@example.com",
+    "Código Postal": "07006"
+  },
+  {
+    "Teléfono": "693751824",
+    "Dirección": "C/ 31 de Diciembre, 52",
+    "Email": "lucia.gomez@example.com",
+    "Código Postal": "07004"
+  },
+  {
+    "Teléfono": "604286931",
+    "Dirección": "C/ Indústria, 8",
+    "Email": "miguel.ruiz@example.com",
+    "Código Postal": "07013"
+  },
+  {
+    "Teléfono": "615937248",
+    "Dirección": "C/ Pere Garau, 63",
+    "Email": "elena.diaz@example.com",
+    "Código Postal": "07007"
+  },
+  {
+    "Teléfono": "626418573",
+    "Dirección": "C/ Eusebi Estada, 29",
+    "Email": "javier.moreno@example.com",
+    "Código Postal": "07004"
+  },
+  {
+    "Teléfono": "637592814",
+    "Dirección": "C/ Marquès de la Fontsanta, 17",
+    "Email": "sofia.munoz@example.com",
+    "Código Postal": "07005"
+  },
+  {
+    "Teléfono": "648731205",
+    "Dirección": "C/ Socors, 41",
+    "Email": "alberto.alonso@example.com",
+    "Código Postal": "07002"
+  },
+  {
+    "Teléfono": "659284736",
+    "Dirección": "C/ Lluís Martí, 9",
+    "Email": "paula.navarra@example.com",
+    "Código Postal": "07005"
+  },
+  {
+    "Teléfono": "670315928",
+    "Dirección": "C/ Capità Vila, 33",
+    "Email": "sergio.torres@example.com",
+    "Código Postal": "07006"
+  },
+  {
+    "Teléfono": "681746295",
+    "Dirección": "C/ Son Espanyolet, 15",
+    "Email": "maria.vargas@example.com",
+    "Código Postal": "07014"
+  },
+  {
+    "Teléfono": "692853147",
+    "Dirección": "C/ Jesús, 72",
+    "Email": "roberto.castillo@example.com",
+    "Código Postal": "07010"
+  },
+  {
+    "Teléfono": "603927451",
+    "Dirección": "C/ Sant Miquel, 28",
+    "Email": "cristina.ortega@example.com",
+    "Código Postal": "07002"
+  },
+  {
+    "Teléfono": "614568329",
+    "Dirección": "C/ Olmos, 54",
+    "Email": "fernando.ramos@example.com",
+    "Código Postal": "07003"
+  },
+  {
+    "Teléfono": "625741936",
+    "Dirección": "C/ Caro, 11",
+    "Email": "isabel.vazquez@example.com",
+    "Código Postal": "07013"
+  },
+  {
+    "Teléfono": "636829514",
+    "Dirección": "C/ Guillem Massot, 39",
+    "Email": "raul.dominguez@example.com",
+    "Código Postal": "07005"
+  },
+  {
+    "Teléfono": "649315827",
+    "Dirección": "C/ Emili Darder, 21",
+    "Email": "natalia.pascual@example.com",
+    "Código Postal": "07013"
+  },
+  {
+    "Teléfono": "657482193",
+    "Dirección": "C/ Son Armadans, 47",
+    "Email": "adrian.santos@example.com",
+    "Código Postal": "07014"
+  },
+  {
+    "Teléfono": "668937241",
+    "Dirección": "C/ Salvador Dalí, 6",
+    "Email": "beatriz.marquez@example.com",
+    "Código Postal": "07015"
+  },
+  {
+    "Teléfono": "679251834",
+    "Dirección": "C/ Ramón y Cajal, 31",
+    "Email": "daniel.iglesias@example.com",
+    "Código Postal": "07011"
+  },
+  {
+    "Teléfono": "680734925",
+    "Dirección": "C/ Federico García Lorca, 18",
+    "Email": "patricia.cabrera@example.com",
+    "Código Postal": "07011"
+  },
+  {
+    "Teléfono": "691426753",
+    "Dirección": "C/ Joan Miró, 57",
+    "Email": "alex.molina@example.com",
+    "Código Postal": "07015"
+  },
+  {
+    "Teléfono": "602815437",
+    "Dirección": "C/ Miquel dels Sants Oliver, 14",
+    "Email": "carolina.vila@example.com",
+    "Código Postal": "07004"
+  },
+  {
+    "Teléfono": "613749285",
+    "Dirección": "C/ Bartomeu Rosselló-Pòrcel, 26",
+    "Email": "marcos.vidal@example.com",
+    "Código Postal": "07005"
+  },
+  {
+    "Teléfono": "624583719",
+    "Dirección": "C/ Alfons el Magnànim, 43",
+    "Email": "silvia.soler@example.com",
+    "Código Postal": "07004"
+  }
+]

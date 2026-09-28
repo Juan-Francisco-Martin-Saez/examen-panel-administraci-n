@@ -1,0 +1,7 @@
+import './components/logo.js'
+import './components/header.js'
+import './components/menu.js'
+import './components/main.js'
+import './components/data-table.js'
+import './components/form-panel.js'
+import './components/varios.js'

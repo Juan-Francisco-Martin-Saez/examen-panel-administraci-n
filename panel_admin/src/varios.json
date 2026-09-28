@@ -1,0 +1,98 @@
+[
+  {
+    "nombre": "Juan Francisco Martín",
+    "email": "juan@example.com",
+    "rol": "Administrador",
+    "estado": "Activo"
+  },
+  {
+    "producto": "Ordenador portátil",
+    "precio": "999 €",
+    "stock": "24"
+  },
+  {
+    "pelicula": "Interestelar",
+    "director": "Christopher Nolan",
+    "año": 2014,
+    "genero": "Ciencia ficción",
+    "duracion": "169 minutos"
+  },
+  {
+    "ciudad": "Palma de Mallorca",
+    "pais": "España",
+    "poblacion": "430.000 habitantes"
+  },
+  {
+    "proyecto": "Panel de control",
+    "tecnologia": "HTML, CSS y JavaScript",
+    "progreso": "75%",
+    "responsable": "Equipo de desarrollo"
+  },
+  {
+    "videojuego": "The Legend of Zelda",
+    "plataforma": "Nintendo Switch",
+    "genero": "Aventura",
+    "valoracion": "9.5/10"
+  },
+  {
+    "libro": "Dune",
+    "autor": "Frank Herbert",
+    "año": 1965
+  },
+  {
+    "curso": "Desarrollo Web",
+    "nivel": "Intermedio",
+    "duracion": "120 horas",
+    "modalidad": "Online",
+    "plazas": 30
+  },
+  {
+    "empresa": "NovaTech",
+    "sector": "Tecnología",
+    "empleados": 128,
+    "ubicacion": "Madrid"
+  },
+  {
+    "evento": "Feria de tecnología",
+    "fecha": "15 de octubre de 2026",
+    "lugar": "Barcelona",
+    "entrada": "Gratuita"
+  },
+  {
+    "personaje": "Rhodvar Varykhen",
+    "especie": "Vaerum",
+    "origen": "Desconocido",
+    "estado": "Activo",
+    "clasificacion": "Confidencial"
+  },
+  {
+    "pelicula": "Resident Evil",
+    "año": 2026,
+    "genero": "Terror",
+    "duracion": "Pendiente",
+    "estreno": "Cine"
+  },
+  {
+    "pedido": "PED-10482",
+    "cliente": "Ana López",
+    "importe": "249,90 €",
+    "estado": "Enviado",
+    "fecha": "26/09/2026"
+  },
+  {
+    "pais": "Japón",
+    "capital": "Tokio",
+    "continente": "Asia",
+    "moneda": "Yen",
+    "idioma": "Japonés",
+    "poblacion": "123 millones"
+  },
+  {
+    "articulo": "Nuevo sistema de navegación",
+    "categoria": "Tecnología",
+    "autor": "Departamento de innovación",
+    "fecha": "26/09/2026",
+    "publicado": true,
+    "etiquetas": "Web, Componentes, JavaScript"
+  }
+]

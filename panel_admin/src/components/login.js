@@ -141,29 +141,15 @@ class LoginComponent extends HTMLElement {
             <label class="etiqueta" for="usuario">
               Usuario
             </label>
-            <input
-              class="entrada"
-              id="usuario"
-              name="usuario"
-              type="text"
-              placeholder="Introduce tu usuario"
-              autocomplete="username"
-              required>
+            <input class="entrada" id="usuario" name="usuario" type="text" placeholder="Introduce tu usuario" autocomplete="username" required>
           </div>
           <div class="campo">
             <label class="etiqueta" for="contrasena">
               Contraseña
             </label>
             <input
-              class="entrada"
-              id="contrasena"
-              name="contrasena"
-              type="password"
-              placeholder="Introduce tu contraseña"
-              autocomplete="current-password"
-              required>
+              class="entrada" id="contrasena" name="contrasena" type="password" placeholder="Introduce tu contraseña" autocomplete="current-password" required>
           </div>
-
           <button class="boton-enviar" type="submit">
             Iniciar sesión
           </button>
